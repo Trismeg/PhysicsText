@@ -150,11 +150,18 @@ $ git pull -u origin master
 \begin{shaded}
 \begin{verbatim}
 $ git config --global user.name "Dr Doeg"
-$git config --global user.email sam@example.com
+$ git config --global user.email sam@example.com
 \end{verbatim}
 \end{shaded}
 
 
+\section{Get Git to Tell You Where It's At}
+
+\begin{shaded}
+\begin{verbatim}
+$ git status
+\end{verbatim}
+\end{shaded}
 
 
 
