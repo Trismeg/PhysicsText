@@ -452,7 +452,7 @@ Fundamental & &  \\
 \quad  distance & meter     & m           & $l$    &   $\mathbf{L}$          \\
 \quad   mass &  kilogram  & kg          &      $m$       & $\mathbf{M}$        \\
 \quad   time            & second    & s           &    $t$     &   $\mathbf{T}$      \\
-\quad  ampere & electrical current     & A           &  $I$ &   $\mathbf{I}$    \\
+\quad  electrical current &ampere &   A           &  $I$ &   $\mathbf{I}$    \\
 \quad  temperature & kelvin    & K           &  $T$ &  $ \mathbf{\Theta} $ \\
 \quad   number particles &   mole      & mol         &   $n$   &  $ \mathbf{N}$     \\
 \quad  luminous intensity   & candela   & cd          &    $J$& $\mathbf{J}$      \\ \addlinespace
@@ -1451,7 +1451,7 @@ $$
 
 \subsection{Cross Product}
 The cross product, or vector product, $\overrightarrow{p}\times\overrightarrow{q}$ is the very small displacement caused by rotation of the vector $\overrightarrow{p}$ around the vector $\overrightarrow{q}$ by an angle $q$.  It yields a vector perpendicular to both $\overrightarrow{p}$ and $\overrightarrow{q}$.
-\vspace{1cm}
+%\vspace{1cm}
 $$\overrightarrow{p}\times\overrightarrow{q}=\left(\begin{array}{c} p_yq_z-p_zq_y \\ p_zq_x-p_xq_z \\ p_xq_y-p_yq_x\end{array}\right)$$
 
 \begin{marginfigure}%
@@ -1470,6 +1470,9 @@ $$
 \end{marginfigure}
 
 $$|\overrightarrow{p}\times\overrightarrow{q}|=pq \sin \gamma$$
+$$\overrightarrow{p}\times\overrightarrow{q}=-\overrightarrow{q}\times\overrightarrow{p}$$
+$$\hat{x}\times\hat{x}=\hat{y}\times\hat{y}=\hat{y}\times\hat{y}=0$$
+$$\hat{x}\times\hat{y}=\hat{z} \hspace{1cm} \hat{y}\times\hat{x}=\hat{x} \hspace{1cm} \hat{z}\times\hat{x}=\hat{y}$$
 
 
 \chapter{Translational Kinematics}

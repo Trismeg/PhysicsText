@@ -1,8 +1,8 @@
 \documentclass{tufte-handout}
 
-\title{An Example of the Usage of the Tufte-Handout Style\thanks{Inspired by Edward~R. Tufte!}}
+\title{An Introduction to LaTeX}
 
-\author[The Tufte-LaTeX Developers]{The Tufte-\LaTeX\ Developers}
+\author[The Tufte-LaTeX Developers]{The Invisible College}
 
 %\date{28 March 2010} % without \date command, current date is supplied
 
@@ -75,8 +75,9 @@ This is the abstract.  Physics is one of the oldest academic disciplines, perhap
 \end{abstract}
 
 %\printclassoptions
+http://latex-project.org/ \\
+https://latex-project.org/ftp.html
 
-\vspace{1cm}
 
 \section{Equations and Other Math}
 
