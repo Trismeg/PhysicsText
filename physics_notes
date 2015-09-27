@@ -682,7 +682,7 @@ $$
 
  
 \foreach \x in {-4,...,26}
-                             \draw[fill] (\x*0.1,{1/2*(\x*.1) ^2-1/24*(\x*.1)^4+rand*0.2}) circle [radius=.5pt];
+                             \draw[fill] (\x*0.1,{1/2*(\x*.1) ^2-1/24*(\x*.1)^4+rand*0.1}) circle [radius=.5pt];
 
 \begin{scope}[shift={(3.5,0)}]
 
@@ -2699,7 +2699,8 @@ $$
  
   \draw[thick,red,->] ([shift=(105:2cm)]0,0) arc (105:150:2cm) node [below, black] {$\omega$};
   \draw (0,0) circle (3cm);
-  \draw[fill=green, thick ] ([shift=(0:1.5cm)]0,0) arc (0:30:1.5cm) -- (0,0) -- cycle;
+  \draw[fill=green, thick ] ([shift=(-10:1.5cm)]0,0) arc (-10:30:1.5cm) -- (0,0) -- cycle;
+   \draw[fill=green, thick ] ([shift=(30:1.5cm)]0,0) arc (30:45:1.5cm) -- (0,0) -- cycle;
    \draw (0.5,0) node [anchor=south ,scale=1] {$\theta$};
   
     %  \fill[black] (0,0.1) circle (0.3mm) node [anchor=south east,scale=1] {\scriptsize$ \theta(0)$};
