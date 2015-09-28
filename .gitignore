@@ -1,5 +1,8 @@
-# Object file
-*.o
-
-# Ada Library Information
-*.ali
+*.aux
+*.out
+*.gz
+*.lot
+*.lof
+*.toc
+*.log
+*.idx
