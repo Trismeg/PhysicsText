@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  26 SEP 2015 21:01
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  28 SEP 2015 12:36
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1379,7 +1379,8 @@ Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
 \fb@frh=\dimen225
 \FrameRule=\dimen226
 \FrameSep=\dimen227
-) (./git.aux)
+)
+No file git.aux.
 \openout1 = `git.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 68.
@@ -1400,7 +1401,6 @@ LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 68.
 LaTeX Font Info:    ... okay on input line 68.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 68.
 LaTeX Font Info:    Try loading font information for TS1+cmr on input line 68.
-
 (/usr/local/texlive/2012/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
@@ -1448,12 +1448,11 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 68.
 LaTeX Info: Redefining \pageref on input line 68.
 LaTeX Info: Redefining \nameref on input line 68.
-
-(./git.out) (./git.out)
 \@outlinefile=\write5
 \openout5 = `git.out'.
 
- ABD: EverySelectfont initializing macros
+
+ABD: EverySelectfont initializing macros
 LaTeX Info: Redefining \selectfont on input line 68.
 
 *geometry* driver: auto-detecting
@@ -1520,11 +1519,11 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-ABD: EveryShipout initializing macros <git.jpeg, id=55, 224.84pt x 224.84pt>
-File: git.jpeg Graphic file (type jpg)
-
-<use git.jpeg>
-Package pdftex.def Info: git.jpeg used on input line 72.
+ABD: EveryShipout initializing macros
+<graphics/git.jpeg, id=23, 224.84pt x 224.84pt>
+File: graphics/git.jpeg Graphic file (type jpg)
+ <use graphics/git.jpeg>
+Package pdftex.def Info: graphics/git.jpeg used on input line 72.
 (pdftex.def)             Requested size: 144.00688pt x 144.00688pt.
 LaTeX Font Info:    Try loading font information for FML+futmi on input line 75
 .
@@ -1589,8 +1588,8 @@ LaTeX Warning: Marginpar on page 1 moved.
 
 [1
 
-{/usr/local/texlive/2012/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./git.j
-peg>]
+{/usr/local/texlive/2012/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./graph
+ics/git.jpeg>]
 LaTeX Font Info:    Font shape `T1/futs/bx/n' in size <10> not available
 (Font)              Font shape `T1/futs/b/n' tried instead on input line 128.
 
@@ -1625,15 +1624,25 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 201.
  (./git.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 201.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 201.
-Package rerunfilecheck Info: File `git.out' has not changed.
-(rerunfilecheck)             Checksum: 98AD1A0212228E5DE75C4E7E445F93A3;1656.
+
+
+Package rerunfilecheck Warning: File `git.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `git.out':
+(rerunfilecheck)             Before: <no file>
+(rerunfilecheck)             After:  98AD1A0212228E5DE75C4E7E445F93A3;1656.
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 201.
  ) 
 Here is how much of TeX's memory you used:
- 30012 strings out of 493488
- 618411 string characters out of 3141326
- 885930 words of memory out of 3000000
- 32592 multiletter control sequences out of 15000+200000
+ 29998 strings out of 493488
+ 618310 string characters out of 3141326
+ 885801 words of memory out of 3000000
+ 32583 multiletter control sequences out of 15000+200000
  89631 words of font info for 72 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
  50i,11n,74p,963b,609s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1642,10 +1651,10 @@ exlive/2012/texmf-dist/fonts/type1/public/bera/fvmr8a.pfb></usr/local/texlive/2
 012/texmf-dist/fonts/type1/adobe/utopia/putb8a.pfb></usr/local/texlive/2012/tex
 mf-dist/fonts/type1/adobe/utopia/putr8a.pfb></usr/local/texlive/2012/texmf-dist
 /fonts/type1/adobe/utopia/putri8a.pfb>
-Output written on git.pdf (2 pages, 76102 bytes).
+Output written on git.pdf (2 pages, 75586 bytes).
 PDF statistics:
- 89 PDF objects out of 1000 (max. 8388607)
- 63 compressed objects within 1 object stream
+ 64 PDF objects out of 1000 (max. 8388607)
+ 38 compressed objects within 1 object stream
  11 named destinations out of 1000 (max. 500000)
- 1202 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1138 words of extra memory for PDF output out of 10000 (max. 10000000)
 

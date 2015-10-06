@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  11 SEP 2015 14:43
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  5 OCT 2015 20:59
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1140,6 +1140,22 @@ File: pgflibraryarrows.code.tex 2008/10/27 v2.10 (rcs-revision 1.9)
 \arrowsize=\dimen220
 ))
 (/usr/local/texlive/2012/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarypatterns.code.tex
+File: tikzlibrarypatterns.code.tex 2008/01/15 v2.10 (rcs-revision 1.2)
+
+(/usr/local/texlive/2012/texmf-dist/tex/generic/pgf/libraries/pgflibrarypattern
+s.code.tex
+File: pgflibrarypatterns.code.tex 2008/03/03 v2.10 (rcs-revision 1.13)
+))
+(/usr/local/texlive/2012/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibraryfadings.code.tex
+File: tikzlibraryfadings.code.tex 2009/11/15 v2.10 (rcs-revision 1.2)
+
+(/usr/local/texlive/2012/texmf-dist/tex/generic/pgf/libraries/pgflibraryfadings
+.code.tex
+File: pgflibraryfadings.code.tex 2008/02/07 v2.10 (rcs-revision 1.3)
+))
+(/usr/local/texlive/2012/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
 s/tikzlibrarysnakes.code.tex
 File: tikzlibrarysnakes.code.tex 2008/02/05 v2.10 (rcs-revision 1.6)
 
@@ -1215,131 +1231,41 @@ Package: makeidx 2000/03/29 v1.0m Standard LaTeX package
 
 
 Writing index file physics_notes.idx
-(./physics_notes.aux
-
-LaTeX Warning: Label `fig:marginfig' multiply defined.
-
-
-LaTeX Warning: Label `fig:marginfig' multiply defined.
-
-
-LaTeX Warning: Label `fig:marginfig' multiply defined.
-
-
-LaTeX Warning: Label `tab:font-sizes' multiply defined.
-
-
-LaTeX Warning: Label `tab:font-sizes' multiply defined.
-
-
-LaTeX Warning: Label `tab:font-sizes' multiply defined.
-
-
-LaTeX Warning: Label `tab:font-sizes' multiply defined.
-
-
-LaTeX Warning: Label `tab:font-sizes' multiply defined.
-
-
-LaTeX Warning: Label `tab:font-sizes' multiply defined.
-
-
-LaTeX Warning: Label `fig:function' multiply defined.
-
-
-LaTeX Warning: Label `tab:font-sizes' multiply defined.
-
-
-LaTeX Warning: Label `fig:function-delta' multiply defined.
-
-
-LaTeX Warning: Label `fig:marginfig' multiply defined.
-
-
-LaTeX Warning: Label `fig:marginfig' multiply defined.
-
-
-LaTeX Warning: Label `fig:marginfig' multiply defined.
-
-
-LaTeX Warning: Label `fig:marginfig' multiply defined.
-
-
-LaTeX Warning: Label `fig:marginfig' multiply defined.
-
-
-LaTeX Warning: Label `fig:marginfig' multiply defined.
-
-
-LaTeX Warning: Label `fig:marginfig' multiply defined.
-
-
-LaTeX Warning: Label `fig:marginfig' multiply defined.
-
-
-LaTeX Warning: Label `fig:marginfig' multiply defined.
-
-
-LaTeX Warning: Label `fig:marginfig' multiply defined.
-
-
-LaTeX Warning: Label `fig:marginfig' multiply defined.
-
-
-LaTeX Warning: Label `fig:marginfig' multiply defined.
-
-
-LaTeX Warning: Label `fig:marginfig' multiply defined.
-
-
-LaTeX Warning: Label `fig:marginfig' multiply defined.
-
-
-LaTeX Warning: Label `fig:marginfig' multiply defined.
-
-
-LaTeX Warning: Label `tab:font-sizes' multiply defined.
-
-
-LaTeX Warning: Label `fig:marginfig' multiply defined.
-
-
-LaTeX Warning: Label `fig:marginfig' multiply defined.
-
-)
+(./physics_notes.aux)
 \openout1 = `physics_notes.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 174.
-LaTeX Font Info:    ... okay on input line 174.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 174.
-LaTeX Font Info:    ... okay on input line 174.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 174.
-LaTeX Font Info:    ... okay on input line 174.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 174.
-LaTeX Font Info:    ... okay on input line 174.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 174.
-LaTeX Font Info:    ... okay on input line 174.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 174.
-LaTeX Font Info:    ... okay on input line 174.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 174.
-LaTeX Font Info:    ... okay on input line 174.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 174.
-LaTeX Font Info:    ... okay on input line 174.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 174.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 174.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 175.
+LaTeX Font Info:    ... okay on input line 175.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 175.
+LaTeX Font Info:    ... okay on input line 175.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 175.
+LaTeX Font Info:    ... okay on input line 175.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 175.
+LaTeX Font Info:    ... okay on input line 175.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 175.
+LaTeX Font Info:    ... okay on input line 175.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 175.
+LaTeX Font Info:    ... okay on input line 175.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 175.
+LaTeX Font Info:    ... okay on input line 175.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 175.
+LaTeX Font Info:    ... okay on input line 175.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 175.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 175.
 
- (/usr/local/texlive/2012/texmf-dist/tex/latex/base/ts1cmr.fd
+
+(/usr/local/texlive/2012/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 174.
-LaTeX Font Info:    Try loading font information for T1+pplj on input line 174.
+LaTeX Font Info:    ... okay on input line 175.
+LaTeX Font Info:    Try loading font information for T1+pplj on input line 175.
 
 
 (/usr/local/texlive/2012/texmf-dist/tex/latex/psnfss/t1pplj.fd
 File: t1pplj.fd 2004/09/06 font definitions for T1/pplj.
 )
 \AtBeginShipoutBox=\box90
-Package hyperref Info: Link coloring ON on input line 174.
+Package hyperref Info: Link coloring ON on input line 175.
 
 (/usr/local/texlive/2012/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2010/04/30 v2.40 Cross-referencing by name of section
@@ -1349,9 +1275,9 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count174
 )
-LaTeX Info: Redefining \ref on input line 174.
-LaTeX Info: Redefining \pageref on input line 174.
-LaTeX Info: Redefining \nameref on input line 174.
+LaTeX Info: Redefining \ref on input line 175.
+LaTeX Info: Redefining \pageref on input line 175.
+LaTeX Info: Redefining \nameref on input line 175.
 
 (./physics_notes.out) (./physics_notes.out)
 \@outlinefile=\write6
@@ -1359,7 +1285,7 @@ LaTeX Info: Redefining \nameref on input line 174.
 
 
 ABD: EverySelectfont initializing macros
-LaTeX Info: Redefining \selectfont on input line 174.
+LaTeX Info: Redefining \selectfont on input line 175.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1426,15 +1352,15 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 ABD: EveryShipout initializing macros
-LaTeX Font Info:    Try loading font information for T1+phv on input line 187.
+LaTeX Font Info:    Try loading font information for T1+phv on input line 188.
 
 (/usr/local/texlive/2012/texmf-dist/tex/latex/psnfss/t1phv.fd
 File: t1phv.fd 2001/06/04 scalable font definitions for T1/phv.
 )
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 8.99994pt on input line 187.
+(Font)              scaled to size 8.99994pt on input line 188.
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 9.85492pt on input line 187.
+(Font)              scaled to size 9.85492pt on input line 188.
  [1
 
 
@@ -1442,135 +1368,100 @@ LaTeX Font Info:    Font shape `T1/phv/m/n' will be
 
 ]
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 16.19989pt on input line 199.
+(Font)              scaled to size 16.19989pt on input line 200.
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 32.39978pt on input line 199.
+(Font)              scaled to size 32.39978pt on input line 200.
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 12.59991pt on input line 199.
+(Font)              scaled to size 12.59991pt on input line 200.
  [3]
-LaTeX Font Info:    Try loading font information for TS1+pplj on input line 209
+LaTeX Font Info:    Try loading font information for TS1+pplj on input line 210
 .
 
 (/usr/local/texlive/2012/texmf-dist/tex/latex/psnfss/ts1pplj.fd
 File: ts1pplj.fd 2004/09/06 font definitions for TS1/pplj.
 )
-LaTeX Font Info:    Try loading font information for T1+fvm on input line 217.
+LaTeX Font Info:    Try loading font information for T1+fvm on input line 218.
 
 (/usr/local/texlive/2012/texmf-dist/tex/latex/bera/t1fvm.fd
 File: t1fvm.fd 2004/09/07 scalable font definitions for T1/fvm.
 )
 LaTeX Font Info:    Font shape `T1/fvm/m/n' will be
-(Font)              scaled to size 8.50006pt on input line 217.
-LaTeX Font Info:    Try loading font information for OT1+pplx on input line 217
+(Font)              scaled to size 8.50006pt on input line 218.
+LaTeX Font Info:    Try loading font information for OT1+pplx on input line 218
 .
 
 (/usr/local/texlive/2012/texmf-dist/tex/latex/psnfss/ot1pplx.fd
 File: ot1pplx.fd 2004/09/06 font definitions for OT1/pplx.
 )
-LaTeX Font Info:    Try loading font information for OML+zplm on input line 217
+LaTeX Font Info:    Try loading font information for OML+zplm on input line 218
 .
 
 (/usr/local/texlive/2012/texmf-dist/tex/latex/psnfss/omlzplm.fd
 File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
 )
-LaTeX Font Info:    Try loading font information for OMS+zplm on input line 217
+LaTeX Font Info:    Try loading font information for OMS+zplm on input line 218
 .
 
 (/usr/local/texlive/2012/texmf-dist/tex/latex/psnfss/omszplm.fd
 File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
 )
-LaTeX Font Info:    Try loading font information for OMX+zplm on input line 217
+LaTeX Font Info:    Try loading font information for OMX+zplm on input line 218
 .
 
 (/usr/local/texlive/2012/texmf-dist/tex/latex/psnfss/omxzplm.fd
 File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
 )
-LaTeX Font Info:    Try loading font information for OT1+zplm on input line 217
+LaTeX Font Info:    Try loading font information for OT1+zplm on input line 218
 .
 
 (/usr/local/texlive/2012/texmf-dist/tex/latex/psnfss/ot1zplm.fd
 File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
 )
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 10.42007pt on input line 217.
+(Font)              scaled to size 10.42007pt on input line 218.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 7.91925pt on input line 217.
+(Font)              scaled to size 7.91925pt on input line 218.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 6.25204pt on input line 217.
+(Font)              scaled to size 6.25204pt on input line 218.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 10.42007pt on input line 217.
+(Font)              scaled to size 10.42007pt on input line 218.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 7.91925pt on input line 217.
+(Font)              scaled to size 7.91925pt on input line 218.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 6.25204pt on input line 217.
+(Font)              scaled to size 6.25204pt on input line 218.
  [4
 
 ]
 LaTeX Font Info:    Font shape `T1/pplj/bx/n' in size <24> not available
-(Font)              Font shape `T1/pplj/b/n' tried instead on input line 228.
+(Font)              Font shape `T1/pplj/b/n' tried instead on input line 229.
 
-(./physics_notes.toc)
+
+Package hyperref Warning: old toc file detected, not used; run LaTeX again.
+
 \tf@toc=\write7
 \openout7 = `physics_notes.toc'.
 
- [5
+[5
 
 ] [6
 
-] (./physics_notes.lof
-Overfull \hbox (13.72978pt too wide) in paragraph at lines 3--3
- [][] [][][]\T1/pplj/m/n/10 Mathematical equa-tion re-lat-ing the en-ergy and o
-s-cil-la-tory fre-quency
- []
+]
 
+Package hyperref Warning: old lof file detected, not used; run LaTeX again.
 
-Overfull \hbox (8.50983pt too wide) in paragraph at lines 4--4
- [][] [][][]\T1/pplj/m/n/10 Bubble cham-ber im-age of a neu-trino par-ti-cle in
--ter-ac-tion event from
- []
-
-
-Overfull \hbox (4.54977pt too wide) in paragraph at lines 5--5
- [][] [][][]\T1/pplj/m/n/10 Feynman di-a-gram rep-re-sent-ing pho-ton me-di-ate
-d electron-electron
- []
-
-
-Overfull \hbox (6.16966pt too wide) in paragraph at lines 9--9
- [][] [][][]\T1/pplj/m/n/10 Tangent lines and the slope func-tion S(x) for a fu
-nc-tion $\OML/zplm/m/it/10 f\OT1/zplm/m/n/10 (\OML/zplm/m/it/10 x\OT1/zplm/m/n/
-10 )$[][] \T1/pplj/m/n/10 22 
- []
-
-
-Overfull \hbox (8.34975pt too wide) in paragraph at lines 13--13
- [][] [][][]\T1/pplj/m/n/10 Dot prod-uct is pro-por-tional to the over-lap of t
-he two vec-tors[][] 28 
- []
-
-
-Overfull \hbox (14.71973pt too wide) in paragraph at lines 14--14
- [][] [][][]\T1/pplj/m/n/10 Cross prod-uct is pro-por-tional to the per-pen-dic
--u-lar-ity of the two vec-
- []
-
-
-Overfull \hbox (18.96985pt too wide) in paragraph at lines 20--20
- [][] [][][]\T1/pplj/m/n/10 Geometric dis-place-ment as av-er-age ve-loc-ity ti
-mes elapsed time[][] 31 
- []
-
-)
 \tf@lof=\write8
 \openout8 = `physics_notes.lof'.
 
- [7] [8
+[7] [8
 
-] (./physics_notes.lot)
+]
+
+Package hyperref Warning: old lot file detected, not used; run LaTeX again.
+
 \tf@lot=\write9
 \openout9 = `physics_notes.lot'.
 
- [9] [10
+[9] [10
 
 ] [11] [12
 
@@ -1578,48 +1469,49 @@ mes elapsed time[][] 31
 
 ]
 LaTeX Font Info:    Font shape `T1/pplj/bx/n' in size <10> not available
-(Font)              Font shape `T1/pplj/b/n' tried instead on input line 269.
+(Font)              Font shape `T1/pplj/b/n' tried instead on input line 270.
 
-<clock.jpg, id=232, 1304.875pt x 734.745pt>
-File: clock.jpg Graphic file (type jpg)
- <use clock.jpg>
-Package pdftex.def Info: clock.jpg used on input line 273.
+<graphics/clock.jpg, id=95, 1304.875pt x 734.745pt>
+File: graphics/clock.jpg Graphic file (type jpg)
+ <use graphics/clock.jpg>
+Package pdftex.def Info: graphics/clock.jpg used on input line 274.
 (pdftex.def)             Requested size: 143.99464pt x 81.08005pt.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 12.50409pt on input line 282.
+(Font)              scaled to size 12.50409pt on input line 283.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 9.37807pt on input line 282.
+(Font)              scaled to size 9.37807pt on input line 283.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 7.29405pt on input line 282.
+(Font)              scaled to size 7.29405pt on input line 283.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 12.50409pt on input line 282.
+(Font)              scaled to size 12.50409pt on input line 283.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 9.37807pt on input line 282.
+(Font)              scaled to size 9.37807pt on input line 283.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 7.29405pt on input line 282.
+(Font)              scaled to size 7.29405pt on input line 283.
 
-<bubble.jpg, id=233, 732.8178pt x 456.0237pt>
-File: bubble.jpg Graphic file (type jpg)
- <use bubble.jpg>
-Package pdftex.def Info: bubble.jpg used on input line 291.
+<graphics/bubble.jpg, id=96, 732.8178pt x 456.0237pt>
+File: graphics/bubble.jpg Graphic file (type jpg)
+
+<use graphics/bubble.jpg>
+Package pdftex.def Info: graphics/bubble.jpg used on input line 292.
 (pdftex.def)             Requested size: 144.0003pt x 89.60965pt.
+ <graphics/feyn.jpg, id=97, 348.30125pt x 248.93pt>
+File: graphics/feyn.jpg Graphic file (type jpg)
 
-<feyn.jpg, id=234, 348.30125pt x 248.93pt>
-File: feyn.jpg Graphic file (type jpg)
- <use feyn.jpg>
-Package pdftex.def Info: feyn.jpg used on input line 297.
+<use graphics/feyn.jpg>
+Package pdftex.def Info: graphics/feyn.jpg used on input line 298.
 (pdftex.def)             Requested size: 144.00023pt x 102.91658pt.
 
 
 LaTeX Warning: Marginpar on page 15 moved.
 
 LaTeX Font Info:    Font shape `T1/pplj/bx/n' in size <12> not available
-(Font)              Font shape `T1/pplj/b/n' tried instead on input line 302.
+(Font)              Font shape `T1/pplj/b/n' tried instead on input line 303.
 LaTeX Font Info:    Font shape `T1/pplj/bx/n' in size <8> not available
-(Font)              Font shape `T1/pplj/b/n' tried instead on input line 307.
+(Font)              Font shape `T1/pplj/b/n' tried instead on input line 308.
 [15
 
- <./clock.jpg> <./bubble.jpg> <./feyn.jpg>]
+ <./graphics/clock.jpg> <./graphics/bubble.jpg> <./graphics/feyn.jpg>]
 
 LaTeX Warning: Marginpar on page 16 moved.
 
@@ -1627,15 +1519,15 @@ LaTeX Warning: Marginpar on page 16 moved.
 LaTeX Warning: Marginpar on page 16 moved.
 
 LaTeX Font Info:    Font shape `T1/pplj/bx/n' in size <10.95> not available
-(Font)              Font shape `T1/pplj/b/n' tried instead on input line 320.
+(Font)              Font shape `T1/pplj/b/n' tried instead on input line 321.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 8.33606pt on input line 331.
+(Font)              scaled to size 8.33606pt on input line 332.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 5.21004pt on input line 331.
+(Font)              scaled to size 5.21004pt on input line 332.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 8.33606pt on input line 331.
+(Font)              scaled to size 8.33606pt on input line 332.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 5.21004pt on input line 331.
+(Font)              scaled to size 5.21004pt on input line 332.
 
 LaTeX Warning: Marginpar on page 16 moved.
 
@@ -1648,10 +1540,10 @@ LaTeX Warning: Marginpar on page 17 moved.
 
 [17]
 
-LaTeX Font Warning: Command \large invalid in math mode on input line 502.
+LaTeX Font Warning: Command \large invalid in math mode on input line 503.
 
 
-LaTeX Font Warning: Command \large invalid in math mode on input line 502.
+LaTeX Font Warning: Command \large invalid in math mode on input line 503.
 
 
 LaTeX Warning: Marginpar on page 18 moved.
@@ -1665,7 +1557,7 @@ LaTeX Warning: Marginpar on page 19 moved.
 
 [19]
 LaTeX Font Info:    Font shape `T1/fvm/m/n' will be
-(Font)              scaled to size 6.80005pt on input line 632.
+(Font)              scaled to size 6.80005pt on input line 633.
 
 
 LaTeX Warning: Marginpar on page 20 moved.
@@ -1674,38 +1566,38 @@ LaTeX Warning: Marginpar on page 20 moved.
 LaTeX Warning: Marginpar on page 20 moved.
 
 
-./physics_notes:723: Package tikz Error: Giving up on this path. Did you forget
+./physics_notes:724: Package tikz Error: Giving up on this path. Did you forget
  a semicolon?.
 
 See the tikz package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.723 ...                     plot(\x,cos(90* \x))
+l.724 ...                     plot(\x,cos(90* \x))
                                                   ;
 ? 
 Missing character: There is no ; in font nullfont!
 
-./physics_notes:726: Package tikz Error: Giving up on this path. Did you forget
+./physics_notes:727: Package tikz Error: Giving up on this path. Did you forget
  a semicolon?.
 
 See the tikz package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.726 ...                     plot(\x,sin(90* \x))
+l.727 ...                     plot(\x,sin(90* \x))
                                                   ;
 ? 
 Missing character: There is no ; in font nullfont!
 
-./physics_notes:775: Package tikz Error: Giving up on this path. Did you forget
+./physics_notes:776: Package tikz Error: Giving up on this path. Did you forget
  a semicolon?.
 
 See the tikz package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.775 ...               plot(\x,0.3*exp (\x*0.8) )
+l.776 ...               plot(\x,0.3*exp (\x*0.8) )
                                                   ;
 ? 
 Missing character: There is no ; in font nullfont!
@@ -1715,16 +1607,16 @@ LaTeX Warning: Marginpar on page 21 moved.
 
 [21] [22]
 
-LaTeX Font Warning: Command \small invalid in math mode on input line 1042.
+LaTeX Font Warning: Command \small invalid in math mode on input line 1043.
 
 [23]
 
 LaTeX Warning: Marginpar on page 24 moved.
 
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 11.40997pt on input line 1089.
+(Font)              scaled to size 11.40997pt on input line 1090.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 11.40997pt on input line 1089.
+(Font)              scaled to size 11.40997pt on input line 1090.
 
 LaTeX Warning: Marginpar on page 24 moved.
 
@@ -1734,23 +1626,23 @@ LaTeX Warning: Marginpar on page 25 moved.
 
 [25]
 LaTeX Font Info:    Font shape `T1/calligra/m/n' will be
-(Font)              scaled to size 17.59998pt on input line 1206.
+(Font)              scaled to size 17.59998pt on input line 1207.
 LaTeX Font Info:    Font shape `T1/calligra/m/n' will be
-(Font)              scaled to size 13.19998pt on input line 1206.
+(Font)              scaled to size 13.19998pt on input line 1207.
 LaTeX Font Info:    Font shape `T1/calligra/m/n' will be
-(Font)              scaled to size 10.99998pt on input line 1206.
+(Font)              scaled to size 10.99998pt on input line 1207.
 
 
 LaTeX Warning: Marginpar on page 26 moved.
 
 LaTeX Font Info:    Font shape `T1/calligra/m/n' will be
-(Font)              scaled to size 21.99997pt on input line 1208.
+(Font)              scaled to size 21.99997pt on input line 1209.
 LaTeX Font Info:    Font shape `T1/calligra/m/n' will be
-(Font)              scaled to size 16.71999pt on input line 1208.
+(Font)              scaled to size 16.71999pt on input line 1209.
 LaTeX Font Info:    Font shape `T1/calligra/m/n' will be
-(Font)              scaled to size 24.08995pt on input line 1248.
+(Font)              scaled to size 24.08995pt on input line 1249.
 
-Overfull \hbox (113.72888pt too wide) in paragraph at lines 1291--1323
+Overfull \hbox (113.72888pt too wide) in paragraph at lines 1292--1324
 [][]      []  
  []
 
@@ -1758,20 +1650,22 @@ Overfull \hbox (113.72888pt too wide) in paragraph at lines 1291--1323
 
 LaTeX Warning: Marginpar on page 27 moved.
 
-<sper.jpg, id=298, 417.56pt x 481.8pt>
-File: sper.jpg Graphic file (type jpg)
- <use sper.jpg>
-Package pdftex.def Info: sper.jpg used on input line 1405.
+<graphics/sper.jpg, id=179, 417.56pt x 481.8pt>
+File: graphics/sper.jpg Graphic file (type jpg)
+ <use graphics/sper.jpg>
+Package pdftex.def Info: graphics/sper.jpg used on input line 1406.
 (pdftex.def)             Requested size: 144.001pt x 166.155pt.
- [27 <./sper.jpg>]
-Overfull \hbox (3.43974pt too wide) detected at line 1424
+
+[27 <./graphics/sper.jpg>]
+Overfull \hbox (3.43974pt too wide) detected at line 1425
 []
  []
 
-[28] <tseries.jpg, id=309, 579.16376pt x 594.22pt>
-File: tseries.jpg Graphic file (type jpg)
- <use tseries.jpg>
-Package pdftex.def Info: tseries.jpg used on input line 1486.
+[28] <graphics/tseries.jpg, id=194, 579.16376pt x 594.22pt>
+File: graphics/tseries.jpg Graphic file (type jpg)
+
+<use graphics/tseries.jpg>
+Package pdftex.def Info: graphics/tseries.jpg used on input line 1487.
 (pdftex.def)             Requested size: 143.99522pt x 147.7386pt.
 
 
@@ -1781,25 +1675,25 @@ LaTeX Warning: Marginpar on page 29 moved.
 LaTeX Warning: Marginpar on page 29 moved.
 
 
-Overfull \hbox (29.32436pt too wide) detected at line 1542
+Overfull \hbox (29.32436pt too wide) detected at line 1543
 [] []
  []
 
 [29
 
- <./tseries.jpg>] <disp.jpg, id=314, 356.33125pt x 226.8475pt>
-File: disp.jpg Graphic file (type jpg)
-
-<use disp.jpg>
-Package pdftex.def Info: disp.jpg used on input line 1553.
+ <./graphics/tseries.jpg>]
+<graphics/disp.jpg, id=201, 356.33125pt x 226.8475pt>
+File: graphics/disp.jpg Graphic file (type jpg)
+ <use graphics/disp.jpg>
+Package pdftex.def Info: graphics/disp.jpg used on input line 1554.
 (pdftex.def)             Requested size: 143.998pt x 91.67197pt.
 
-Overfull \hbox (29.32436pt too wide) detected at line 1603
+Overfull \hbox (29.32436pt too wide) detected at line 1604
 [] []
  []
 
-[30 <./disp.jpg>]
-Overfull \hbox (29.32436pt too wide) detected at line 1655
+[30 <./graphics/disp.jpg>]
+Overfull \hbox (29.32436pt too wide) detected at line 1656
 [] []
  []
 
@@ -1807,37 +1701,38 @@ Overfull \hbox (29.32436pt too wide) detected at line 1655
 LaTeX Warning: Marginpar on page 31 moved.
 
 [31]
-Overfull \hbox (38.23958pt too wide) detected at line 1720
+Overfull \hbox (38.23958pt too wide) detected at line 1721
 [] []
  []
 
 [32]
-Overfull \hbox (38.23958pt too wide) detected at line 1776
+Overfull \hbox (38.23958pt too wide) detected at line 1777
 [] []
  []
 
-[33] <tangent.jpg, id=335, 501.875pt x 301.125pt>
-File: tangent.jpg Graphic file (type jpg)
- <use tangent.jpg>
-Package pdftex.def Info: tangent.jpg used on input line 1788.
+[33] <graphics/tangent.jpg, id=226, 501.875pt x 301.125pt>
+File: graphics/tangent.jpg Graphic file (type jpg)
+
+<use graphics/tangent.jpg>
+Package pdftex.def Info: graphics/tangent.jpg used on input line 1789.
 (pdftex.def)             Requested size: 144.00076pt x 86.40045pt.
 
 
 LaTeX Warning: Marginpar on page 34 moved.
 
-<curve.jpg, id=336, 361.35pt x 242.9075pt>
-File: curve.jpg Graphic file (type jpg)
- <use curve.jpg>
-Package pdftex.def Info: curve.jpg used on input line 1797.
+<graphics/curve.jpg, id=227, 361.35pt x 242.9075pt>
+File: graphics/curve.jpg Graphic file (type jpg)
+ <use graphics/curve.jpg>
+Package pdftex.def Info: graphics/curve.jpg used on input line 1798.
 (pdftex.def)             Requested size: 143.99709pt x 96.79803pt.
 
 
 LaTeX Warning: Marginpar on page 34 moved.
 
-<area.jpg, id=337, 225.84375pt x 111.41624pt>
-File: area.jpg Graphic file (type jpg)
- <use area.jpg>
-Package pdftex.def Info: area.jpg used on input line 1807.
+<graphics/area.jpg, id=228, 225.84375pt x 111.41624pt>
+File: graphics/area.jpg Graphic file (type jpg)
+ <use graphics/area.jpg>
+Package pdftex.def Info: graphics/area.jpg used on input line 1808.
 (pdftex.def)             Requested size: 144.00879pt x 71.04433pt.
 
 
@@ -1849,7 +1744,7 @@ LaTeX Warning: Marginpar on page 34 moved.
 
 LaTeX Warning: Marginpar on page 34 moved.
 
-[34 <./tangent.jpg> <./curve.jpg> <./area.jpg>]
+[34 <./graphics/tangent.jpg> <./graphics/curve.jpg> <./graphics/area.jpg>]
 
 LaTeX Warning: Marginpar on page 35 moved.
 
@@ -1866,19 +1761,19 @@ LaTeX Warning: Marginpar on page 35 moved.
 LaTeX Warning: Marginpar on page 35 moved.
 
 LaTeX Font Info:    Font shape `T1/calligra/m/n' will be
-(Font)              scaled to size 15.39998pt on input line 1890.
+(Font)              scaled to size 15.39998pt on input line 1891.
 
-Overfull \hbox (0.24336pt too wide) detected at line 1893
+Overfull \hbox (0.24336pt too wide) detected at line 1894
 [] []
  []
 
 
-Overfull \hbox (5.79445pt too wide) detected at line 1953
+Overfull \hbox (5.79445pt too wide) detected at line 1954
 [] []
  []
 
 
-Overfull \hbox (6.17232pt too wide) detected at line 2010
+Overfull \hbox (6.17232pt too wide) detected at line 2011
 [] []
  []
 
@@ -1946,12 +1841,12 @@ LaTeX Warning: Marginpar on page 38 moved.
 LaTeX Warning: Marginpar on page 38 moved.
 
 
-Overfull \hbox (53.43304pt too wide) in paragraph at lines 2350--2368
+Overfull \hbox (53.43304pt too wide) in paragraph at lines 2351--2369
  [] 
  []
 
 [38]
-Overfull \hbox (0.61182pt too wide) detected at line 2420
+Overfull \hbox (0.61182pt too wide) detected at line 2421
 []
  []
 
@@ -1966,7 +1861,7 @@ LaTeX Warning: Marginpar on page 40 moved.
 LaTeX Warning: Marginpar on page 40 moved.
 
 
-Overfull \hbox (4.39595pt too wide) detected at line 2502
+Overfull \hbox (4.39595pt too wide) detected at line 2503
 [] []
  []
 
@@ -1975,13 +1870,13 @@ Overfull \hbox (4.39595pt too wide) detected at line 2502
 LaTeX Warning: Marginpar on page 41 moved.
 
 
-Overfull \hbox (111.08316pt too wide) detected at line 2514
+Overfull \hbox (111.08316pt too wide) detected at line 2515
 [] \OT1/zplm/m/n/10 = [] = [] = [] + [] \OML/zplm/m/it/10 t \OT1/zplm/m/n/10 + 
 [] [] = [][] + [][]\OML/zplm/m/it/10 t \OT1/zplm/m/n/10 + [][]
  []
 
 
-Overfull \hbox (56.79146pt too wide) detected at line 2597
+Overfull \hbox (56.79146pt too wide) detected at line 2598
 []
  []
 
@@ -1990,20 +1885,21 @@ Overfull \hbox (56.79146pt too wide) detected at line 2597
 LaTeX Warning: Marginpar on page 42 moved.
 
 
-Overfull \hbox (120.84244pt too wide) detected at line 2618
+Overfull \hbox (120.84244pt too wide) detected at line 2619
 []
  []
 
 
 LaTeX Warning: Marginpar on page 42 moved.
 
-[42] <nerd5.jpg, id=387, 444.66125pt x 289.08pt>
-File: nerd5.jpg Graphic file (type jpg)
- <use nerd5.jpg>
-Package pdftex.def Info: nerd5.jpg used on input line 2664.
+[42] <graphics/nerd5.jpg, id=286, 444.66125pt x 289.08pt>
+File: graphics/nerd5.jpg Graphic file (type jpg)
+
+<use graphics/nerd5.jpg>
+Package pdftex.def Info: graphics/nerd5.jpg used on input line 2665.
 (pdftex.def)             Requested size: 143.99753pt x 93.61464pt.
 
-Overfull \hbox (25.19998pt too wide) in paragraph at lines 2676--2685
+Overfull \hbox (25.19998pt too wide) in paragraph at lines 2677--2686
  [] 
  []
 
@@ -2021,7 +1917,7 @@ LaTeX Warning: Marginpar on page 43 moved.
 
 [43
 
- <./nerd5.jpg>]
+ <./graphics/nerd5.jpg>]
 
 LaTeX Warning: Marginpar on page 44 moved.
 
@@ -2035,7 +1931,7 @@ LaTeX Warning: Marginpar on page 44 moved.
 LaTeX Warning: Marginpar on page 44 moved.
 
 [44]
-Overfull \hbox (31.68922pt too wide) detected at line 2830
+Overfull \hbox (31.68922pt too wide) detected at line 2831
 []\OML/zplm/m/it/10 r \OT1/zplm/m/n/10 = [] = [] = [] = [] \OML/zplm/m/it/10 ^^
 R[]x \OT1/zplm/m/n/10 + [] \OML/zplm/m/it/10 ^^R[]y \OT1/zplm/m/n/10 = []
  []
@@ -2051,7 +1947,7 @@ LaTeX Warning: Marginpar on page 45 moved.
 LaTeX Warning: Marginpar on page 46 moved.
 
 
-Overfull \hbox (110.33856pt too wide) in paragraph at lines 2856--2913
+Overfull \hbox (110.33856pt too wide) in paragraph at lines 2857--2914
  [] 
  []
 
@@ -2064,16 +1960,16 @@ LaTeX Warning: Marginpar on page 46 moved.
 
 LaTeX Warning: Marginpar on page 46 moved.
 
-<car.jpg, id=409, 417.56pt x 273.02pt>
-File: car.jpg Graphic file (type jpg)
- <use car.jpg>
-Package pdftex.def Info: car.jpg used on input line 2935.
+<graphics/car.jpg, id=312, 417.56pt x 273.02pt>
+File: graphics/car.jpg Graphic file (type jpg)
+ <use graphics/car.jpg>
+Package pdftex.def Info: graphics/car.jpg used on input line 2936.
 (pdftex.def)             Requested size: 144.001pt x 94.1545pt.
 
 
 LaTeX Warning: Marginpar on page 46 moved.
 
-[46 <./car.jpg>]
+[46 <./graphics/car.jpg>]
 
 LaTeX Warning: Marginpar on page 47 moved.
 
@@ -2103,7 +1999,7 @@ LaTeX Warning: Marginpar on page 48 moved.
 LaTeX Warning: Marginpar on page 48 moved.
 
 
-Overfull \hbox (2.61015pt too wide) detected at line 2989
+Overfull \hbox (0.90773pt too wide) detected at line 2990
 [] \OT1/zplm/m/n/10 = [] \OMS/zplm/m/n/10 ^^@ [] \OT1/zplm/m/n/10 +[] + [] = []
  \OMS/zplm/m/n/10 ^^@ [] \OT1/zplm/m/n/10 = \OML/zplm/m/it/10 r[]^^R \OMS/zplm
 /m/n/10 ^^@ [][]\OML/zplm/m/it/10 r
@@ -2115,29 +2011,250 @@ LaTeX Warning: Marginpar on page 48 moved.
 
 LaTeX Warning: Marginpar on page 48 moved.
 
+[48] <Frames.jpg, id=337, 380.622pt x 271.0125pt>
+File: Frames.jpg Graphic file (type jpg)
+ <use Frames.jpg>
+Package pdftex.def Info: Frames.jpg used on input line 3006.
+(pdftex.def)             Requested size: 143.999pt x 102.53093pt.
+
+
+LaTeX Warning: Marginpar on page 49 moved.
+
+
+LaTeX Warning: Marginpar on page 49 moved.
+
+<graphics/principia.jpg, id=338, 1862.96pt x 2497.33pt>
+File: graphics/principia.jpg Graphic file (type jpg)
+
+<use graphics/principia.jpg>
+Package pdftex.def Info: graphics/principia.jpg used on input line 3020.
+(pdftex.def)             Requested size: 143.97993pt x 193.00758pt.
+
+
+LaTeX Warning: Marginpar on page 49 moved.
+
+LaTeX Font Info:    Font shape `T1/pplj/bx/it' in size <10> not available
+(Font)              Font shape `T1/pplj/b/it' tried instead on input line 3029.
+
+[49
+
+ <./Frames.jpg> <./graphics/principia.jpg>]
+LaTeX Font Info:    Font shape `T1/pplj/bx/it' in size <8> not available
+(Font)              Font shape `T1/pplj/b/it' tried instead on input line 3039.
+
+
+
+LaTeX Warning: Marginpar on page 50 moved.
+
+<graphics/isaac-newton.jpg, id=348, 642.4pt x 431.6125pt>
+File: graphics/isaac-newton.jpg Graphic file (type jpg)
+
+<use graphics/isaac-newton.jpg>
+Package pdftex.def Info: graphics/isaac-newton.jpg used on input line 3046.
+(pdftex.def)             Requested size: 143.99464pt x 96.74638pt.
+
+
+LaTeX Warning: Marginpar on page 50 moved.
+
+
+LaTeX Warning: Marginpar on page 50 moved.
+
+
+Overfull \hbox (1.76086pt too wide) in paragraph at lines 3077--3078
+\T1/pplj/m/sc/10/50ls Momentum is de-fined \T1/pplj/m/n/10 as the prod-uct of m
+ass and ve-loc-ity. Though 
+ []
+
+[50 <./graphics/isaac-newton.jpg>]
+<graphics/snore.jpg, id=356, 619.31375pt x 449.68pt>
+File: graphics/snore.jpg Graphic file (type jpg)
+ <use graphics/snore.jpg>
+Package pdftex.def Info: graphics/snore.jpg used on input line 3086.
+(pdftex.def)             Requested size: 143.9984pt x 104.55637pt.
+
+
+LaTeX Warning: Marginpar on page 51 moved.
+
+<graphics/reaction.jpg, id=357, 1541.76pt x 1023.825pt>
+File: graphics/reaction.jpg Graphic file (type jpg)
+
+<use graphics/reaction.jpg>
+Package pdftex.def Info: graphics/reaction.jpg used on input line 3105.
+(pdftex.def)             Requested size: 143.99855pt x 95.62404pt.
+ [51 <./graphics/snore.jpg> <./graphics/reaction.jpg>]
+
+LaTeX Warning: Marginpar on page 52 moved.
+
+<graphics/pulley.jpg, id=363, 776.9025pt x 1027.84pt>
+File: graphics/pulley.jpg Graphic file (type jpg)
+
+<use graphics/pulley.jpg>
+Package pdftex.def Info: graphics/pulley.jpg used on input line 3127.
+(pdftex.def)             Requested size: 143.99736pt x 190.50815pt.
+
+
+LaTeX Warning: Marginpar on page 52 moved.
+
+[52 <./graphics/pulley.jpg>]
+
+LaTeX Warning: Marginpar on page 53 moved.
+
+
+LaTeX Warning: Marginpar on page 53 moved.
+
+
+LaTeX Warning: Marginpar on page 53 moved.
+
+
+LaTeX Warning: Marginpar on page 53 moved.
+
+
+LaTeX Warning: Marginpar on page 53 moved.
+
+
+LaTeX Warning: Marginpar on page 53 moved.
+
+
+LaTeX Warning: Marginpar on page 53 moved.
+
+[53]
+
+LaTeX Warning: Marginpar on page 54 moved.
+
+
+Overfull \hbox (6.17923pt too wide) detected at line 3253
+[] [][] \OMS/zplm/m/n/10 ^^A []\OML/zplm/m/it/10 n \OT1/zplm/m/n/10 = \OT1/pplx
+/m/n/10 0    \OT1/zplm/m/n/10 =[]\OMS/zplm/m/n/10 )    \OML/zplm/m/it/10 F[] \O
+T1/zplm/m/n/10 = \OT1/pplx/m/n/10 0  []  \OML/zplm/m/it/10 F[] \OT1/zplm/m/n/10
+ = \OML/zplm/m/it/10 A
+ []
+
+
+LaTeX Warning: Marginpar on page 54 moved.
+
+
+LaTeX Warning: Marginpar on page 54 moved.
+
+
+LaTeX Warning: Marginpar on page 54 moved.
+
+LaTeX Font Info:    Font shape `T1/calligra/m/n' will be
+(Font)              scaled to size 19.79997pt on input line 3277.
+Missing character: There is no ; in font nullfont!
+[54]
+
+LaTeX Warning: Marginpar on page 55 moved.
+
+
+LaTeX Warning: Marginpar on page 55 moved.
+
+
+LaTeX Warning: Marginpar on page 55 moved.
+
+
+LaTeX Warning: Marginpar on page 55 moved.
+
+[55]
+
+LaTeX Warning: Marginpar on page 56 moved.
+
+
+LaTeX Warning: Marginpar on page 56 moved.
+
+
+Overfull \hbox (24.51825pt too wide) detected at line 3416
+[][] \OT1/zplm/m/n/10 = [] + [][] = [] = [] = \OML/zplm/m/it/10 m[] \OT1/zplm/m
+/n/10 = []
+ []
+
+Missing character: There is no ; in font nullfont!
+
+LaTeX Warning: Marginpar on page 56 moved.
+
+[56]
+Overfull \hbox (61.8254pt too wide) detected at line 3465
+[][] \OT1/zplm/m/n/10 = [][] + [][] + [][] = [] = [] = \OML/zplm/m/it/10 m[] \O
+T1/zplm/m/n/10 = []
+ []
+
+
+LaTeX Warning: Marginpar on page 57 moved.
+
+
+Overfull \hbox (6.97765pt too wide) detected at line 3515
+[]
+ []
+
+
+LaTeX Warning: Marginpar on page 57 moved.
+
+
+LaTeX Warning: Marginpar on page 57 moved.
+
+
+Overfull \hbox (59.20036pt too wide) detected at line 3617
+[]
+ []
+
+[57]
+
+LaTeX Warning: Marginpar on page 58 moved.
+
+[58]
+
+LaTeX Warning: Marginpar on page 59 moved.
+
+
+Overfull \hbox (89.18365pt too wide) detected at line 3687
+[]
+ []
+
+
+LaTeX Warning: Marginpar on page 59 moved.
+
+<graphics/special-forces.jpg, id=431, 401.5pt x 155.58125pt>
+File: graphics/special-forces.jpg Graphic file (type jpg)
+
+<use graphics/special-forces.jpg>
+Package pdftex.def Info: graphics/special-forces.jpg used on input line 3737.
+(pdftex.def)             Requested size: 144.00076pt x 55.8003pt.
+
+Overfull \hbox (2.32877pt too wide) in paragraph at lines 3737--3737
+ []  
+ []
+
+
+LaTeX Warning: Marginpar on page 59 moved.
+
 No file physics_notes.bbl.
 No file physics_notes.ind.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 3014.
-[48]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 3014.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 3761.
+[59 <./graphics/special-forces.jpg>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 3761.
  (./physics_notes.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 3014.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 3014.
-
-Package rerunfilecheck Info: File `physics_notes.out' has not changed.
-(rerunfilecheck)             Checksum: 507B5640AF6155EE131FA2C08BB4AE03;3676.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 3761.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 3761.
 
 
-LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 3014.
+Package rerunfilecheck Warning: File `physics_notes.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `physics_notes.out':
+(rerunfilecheck)             Before: D41D8CD98F00B204E9800998ECF8427E;0
+(rerunfilecheck)             After:  B1BBE7827B00E009FEA96D3113C1C241;7429.
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 3761.
  ) 
 Here is how much of TeX's memory you used:
- 33378 strings out of 493488
- 684048 string characters out of 3141326
- 978529 words of memory out of 3000000
- 35732 multiletter control sequences out of 15000+200000
- 147581 words of font info for 256 fonts, out of 3000000 for 9000
+ 33595 strings out of 493488
+ 690948 string characters out of 3141326
+ 989964 words of memory out of 3000000
+ 35891 multiletter control sequences out of 15000+200000
+ 149098 words of font info for 259 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
  50i,24n,74p,1205b,1298s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/local/texlive/2012/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
@@ -2155,12 +2272,13 @@ pe1/public/fpl/fplrij8a.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/pub
 lic/bera/fvmr8a.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsf
 onts/latxfont/line10.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/urw/he
 lvetic/uhvr8a.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/urw/palatino/
-uplb8a.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/urw/palatino/uplr8a.
-pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on physics_notes.pdf (48 pages, 5052431 bytes).
+uplb8a.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/urw/palatino/uplbi8a
+.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></
+usr/local/texlive/2012/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
+Output written on physics_notes.pdf (59 pages, 8033739 bytes).
 PDF statistics:
- 520 PDF objects out of 1000 (max. 8388607)
- 434 compressed objects within 5 object streams
- 131 named destinations out of 1000 (max. 500000)
- 3316 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 539 PDF objects out of 1000 (max. 8388607)
+ 413 compressed objects within 5 object streams
+ 172 named destinations out of 1000 (max. 500000)
+ 3319 words of extra memory for PDF output out of 10000 (max. 10000000)
 
